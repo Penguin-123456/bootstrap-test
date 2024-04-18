@@ -11,5 +11,8 @@
     "url": "bootstrap-test"
   },
   "author": "Penguin-123456",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
 }
